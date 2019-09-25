@@ -1,0 +1,17 @@
+.DS_Store
+bin/
+web/
+vendor/
+components/
+node_modules/
+bower_components/
+.sass-cache/
+console/cache/
+modules/contrib/
+themes/bootstrap/
+profiles/
+libraries/FlexSlider/
+libraries/bootstrap-slider/
+libraries/kint/
+libraries/colorbox
+core
